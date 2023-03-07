@@ -480,6 +480,14 @@ footer a{
     color: white !important;
     background-color: #ACE500;
 }
+.footer-image-container{
+    position: relative;
+}
+.footer-image {
+    display: block;
+    width: 70%;
+    height: auto;
+}
 
 /*others*/
 .facebook{
