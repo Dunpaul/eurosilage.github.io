@@ -146,7 +146,7 @@ main * {
 /*machinery*/
 #machinery {
     background: url("images/video-section-bg_1.png");
-    min-height: 100vh !important;
+    min-height: 60vh !important;
     background-size: cover;
     background-attachment: scroll;
     background-color: hsl(0, 0%, 0%);
@@ -161,7 +161,9 @@ main * {
     bottom: 0;
     color: white;
 }
-
+#placeholdersoyoucanscroll h3 {
+    color:#99cc00;
+}
 .machinery-header h1 {
     font-size: 36px !important;
 }
